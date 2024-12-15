@@ -1,0 +1,1 @@
+<command>-- Corregir la estructura de la tabla de reportes para el panel de administración</command>
